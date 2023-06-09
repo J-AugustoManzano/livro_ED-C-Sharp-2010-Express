@@ -1,0 +1,7 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab06_Ex07\bin\Debug\Gab06_Ex07.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab06_Ex07\bin\Debug\Gab06_Ex07.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab06_Ex07\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab06_Ex07\obj\x86\Debug\Gab06_Ex07.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab06_Ex07\obj\x86\Debug\Gab06_Ex07.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab06_Ex07\Gab06_Ex07\obj\x86\Debug\Gab06_Ex07.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab06_Ex07\Gab06_Ex07\obj\x86\Debug\Gab06_Ex07.pdb
