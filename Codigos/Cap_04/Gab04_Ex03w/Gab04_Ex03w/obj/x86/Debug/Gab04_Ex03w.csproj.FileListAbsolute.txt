@@ -1,0 +1,7 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab04_Ex03w\bin\Debug\Gab04_Ex03w.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab04_Ex03w\bin\Debug\Gab04_Ex03w.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab04_Ex03w\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab04_Ex03w\obj\x86\Debug\Gab04_Ex03w.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab04_Ex03w\obj\x86\Debug\Gab04_Ex03w.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab04_Ex03w\Gab04_Ex03w\obj\x86\Debug\Gab04_Ex03w.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab04_Ex03w\Gab04_Ex03w\obj\x86\Debug\Gab04_Ex03w.pdb
