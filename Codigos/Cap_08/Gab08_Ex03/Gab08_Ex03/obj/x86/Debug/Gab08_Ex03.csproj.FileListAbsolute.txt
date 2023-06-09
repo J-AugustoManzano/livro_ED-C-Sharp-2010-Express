@@ -1,0 +1,11 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\bin\Debug\Gab08_Ex03.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\bin\Debug\Gab08_Ex03.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\Gab08_Ex03.Form1.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\Gab08_Ex03.Properties.Resources.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\Gab08_Ex03.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab08_Ex03\obj\x86\Debug\Gab08_Ex03.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab08_Ex03\Gab08_Ex03\obj\x86\Debug\Gab08_Ex03.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab08_Ex03\Gab08_Ex03\obj\x86\Debug\Gab08_Ex03.pdb
