@@ -1,0 +1,7 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab05_Ex03prppv\bin\Debug\Gab05_Ex03prppv.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab05_Ex03prppv\bin\Debug\Gab05_Ex03prppv.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab05_Ex03prppv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab05_Ex03prppv\obj\x86\Debug\Gab05_Ex03prppv.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Gab05_Ex03prppv\obj\x86\Debug\Gab05_Ex03prppv.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab05_Ex03prppv\Gab05_Ex03prppv\obj\x86\Debug\Gab05_Ex03prppv.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Gab05_Ex03prppv\Gab05_Ex03prppv\obj\x86\Debug\Gab05_Ex03prppv.pdb
